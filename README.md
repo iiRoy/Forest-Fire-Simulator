@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1f7587af-a793-4de8-b6b6-08467f6460a9" alt="Forest Fire Simulation Logo" width="600" />
+  <img src="https://github.com/user-attachments/assets/948c5a6d-f450-400f-8e13-0d6026796d99" alt="Forest Fire Simulation Logo" width="600" />
 </p>
 
 **Forest Fire Simulation** is an agent-based forest fire propagation simulator built with **Julia**, **Agents.jl**, and a web-based frontend.
